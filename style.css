@@ -1,0 +1,104 @@
+div {
+    width: 1310px;
+    height: 45px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid rgb(158, 148, 148);
+
+    h3 {
+        color: rgb(42, 236, 25);
+        display: inline;
+        padding-left: 23px;
+        font-size: 33px;
+        font-family: serif;
+    }
+
+    select {
+        border: none;
+    }
+
+    option {
+        visibility: hidden;
+        border: none;
+    }
+
+    input {
+        width: 230px;
+        height: 25px;
+        border-radius: 12px;
+        padding-left: 10px;
+    }
+
+    ::placeholder {
+        color: black;
+        padding: 5px;
+    }
+
+    p {
+        display: inline;
+        padding-left: 20px;
+    }
+
+    .wajid {
+        width: 80px;
+        height: 30px;
+        border-radius: 20px;
+        background-color: rgb(6, 216, 6);
+        color: white;
+    }
+}
+
+a {
+    color: green;
+    padding-bottom: 50px;
+}
+
+.p {
+    display: inline;
+}
+
+#select {
+    display: inline;
+    border: none;
+}
+
+.goth {
+    color: rgb(158, 148, 148);
+    /* padding-bottom: 210px; */
+    padding-left: 28px;
+}
+
+.Get {
+    width: 95px;
+    height: 28px;
+    border-radius: 20px;
+    background-color: rgb(6, 216, 6);
+    color: white;
+    display: block;
+    margin-left: 23px;
+}
+
+h1 {
+    color: rgb(42, 236, 25);
+    display: block;
+    font-size: 60px;
+    padding-left: 30px;
+
+}
+
+.whk {
+    width: 290px;
+    height: 170px;
+    position: absolute;
+    right: 200px;
+    top: 140px;
+}
+
+.ali {
+    width: 90%;
+    margin-top: 20px;
+}
+
+.hue {
+    width: 100%;
+}
